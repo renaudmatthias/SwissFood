@@ -1,0 +1,364 @@
+{
+  "specialties": [
+    {
+      "id": "fondue",
+      "canton": "FR",
+      "category": "dish",
+      "coords": [46.8065, 7.1619],
+      "name": {
+        "fr": "Fondue moitié-moitié",
+        "de": "Fondue Halb-Halb",
+        "it": "Fonduta metà-metà",
+        "en": "Half-and-half fondue"
+      },
+      "fact": {
+        "fr": "Mélange de gruyère et de vacherin fribourgeois fondus au vin blanc, spécialité emblématique de Fribourg, traditionnellement mangée en hiver.",
+        "de": "Eine Mischung aus Gruyère und Freiburger Vacherin, in Weisswein geschmolzen. Emblematische Freiburger Spezialität, traditionell im Winter gegessen.",
+        "it": "Un mix di gruyère e vacherin friburghese fusi nel vino bianco, specialità emblematica di Friburgo, tradizionalmente consumata in inverno.",
+        "en": "A blend of Gruyère and Vacherin Fribourgeois melted in white wine, Fribourg's signature specialty, traditionally eaten in winter."
+      }
+    },
+    {
+      "id": "raclette",
+      "canton": "VS",
+      "category": "dish",
+      "coords": [46.2331, 7.3606],
+      "name": {
+        "fr": "Raclette",
+        "de": "Raclette",
+        "it": "Raclette",
+        "en": "Raclette"
+      },
+      "fact": {
+        "fr": "Née en Valais, où l'on faisait fondre le fromage devant un feu de bois avant de le racler sur des pommes de terre.",
+        "de": "Entstanden im Wallis, wo der Käse vor einem Holzfeuer geschmolzen und über Kartoffeln geschabt wurde.",
+        "it": "Nata in Vallese, dove il formaggio veniva fuso davanti a un fuoco di legna e poi raschiato sulle patate.",
+        "en": "Originated in Valais, where cheese was melted by an open wood fire and scraped onto potatoes."
+      }
+    },
+    {
+      "id": "papet-vaudois",
+      "canton": "VD",
+      "category": "dish",
+      "coords": [46.5197, 6.6323],
+      "name": {
+        "fr": "Papet vaudois",
+        "de": "Papet vaudois",
+        "it": "Papet vaudois",
+        "en": "Papet vaudois"
+      },
+      "fact": {
+        "fr": "Poireaux et pommes de terre mijotés, servis avec une saucisse aux choux. Les couleurs vert et blanc rappellent l'écusson vaudois.",
+        "de": "Geschmorter Lauch und Kartoffeln, serviert mit einer Kohlwurst. Die grün-weissen Farben erinnern an das Waadtländer Wappen.",
+        "it": "Porri e patate stufati, serviti con una salsiccia di cavolo. I colori verde e bianco richiamano lo stemma del canton Vaud.",
+        "en": "Stewed leeks and potatoes served with a cabbage sausage. The green and white colours echo the Vaud coat of arms."
+      }
+    },
+    {
+      "id": "malakoff",
+      "canton": "VD",
+      "category": "cheese",
+      "coords": [46.4312, 6.2426],
+      "name": {
+        "fr": "Malakoff",
+        "de": "Malakoff",
+        "it": "Malakoff",
+        "en": "Malakoff"
+      },
+      "fact": {
+        "fr": "Beignet de gruyère frit, originaire de La Côte. Le nom viendrait des mercenaires suisses de la guerre de Crimée (bataille de Malakoff).",
+        "de": "Frittiertes Gruyère-Beignet aus der Region La Côte. Der Name soll von Schweizer Söldnern des Krimkriegs (Schlacht von Malakoff) stammen.",
+        "it": "Frittella di gruyère fritta, originaria della regione La Côte. Il nome deriverebbe dai mercenari svizzeri della guerra di Crimea (battaglia di Malakoff).",
+        "en": "Fried Gruyère fritter from the La Côte region. The name is said to come from Swiss mercenaries at the Battle of Malakoff in the Crimean War."
+      }
+    },
+    {
+      "id": "cuchaule",
+      "canton": "FR",
+      "category": "pastry",
+      "coords": [46.8065, 7.1619],
+      "name": {
+        "fr": "Cuchaule",
+        "de": "Cuchaule",
+        "it": "Cuchaule",
+        "en": "Cuchaule"
+      },
+      "fact": {
+        "fr": "Pain brioché au safran, protégé par une AOP, traditionnellement servi avec la moutarde de Bénichon lors de la fête de la Bénichon.",
+        "de": "Safranbrioche mit geschützter Ursprungsbezeichnung (AOP), traditionell mit dem Bénichon-Senf am Bénichon-Fest serviert.",
+        "it": "Pane brioche allo zafferano, protetto da una DOP, tradizionalmente servito con la senape della Bénichon durante la festa omonima.",
+        "en": "A saffron brioche bread with protected AOP status, traditionally served with Bénichon mustard at the Bénichon harvest festival."
+      }
+    },
+    {
+      "id": "viande-sechee-grisons",
+      "canton": "GR",
+      "category": "charcuterie",
+      "coords": [46.8499, 9.5320],
+      "name": {
+        "fr": "Viande séchée des Grisons",
+        "de": "Bündnerfleisch",
+        "it": "Carne secca dei Grigioni",
+        "en": "Grisons dried meat (Bündnerfleisch)"
+      },
+      "fact": {
+        "fr": "Bœuf séché à l'air sec des Alpes, assaisonné aux herbes, coupé en tranches très fines. Spécialité emblématique du canton des Grisons.",
+        "de": "In der trockenen Alpenluft luftgetrocknetes, mit Kräutern gewürztes Rindfleisch, in hauchdünne Scheiben geschnitten. Wahrzeichen des Kantons Graubünden.",
+        "it": "Manzo essiccato all'aria secca delle Alpi, insaporito con erbe, tagliato a fette sottilissime. Specialità simbolo del canton Grigioni.",
+        "en": "Beef air-dried in the dry Alpine climate, seasoned with herbs and sliced paper-thin. A signature specialty of canton Graubünden."
+      }
+    },
+    {
+      "id": "capuns",
+      "canton": "GR",
+      "category": "dish",
+      "coords": [46.8499, 9.5320],
+      "name": {
+        "fr": "Capuns",
+        "de": "Capuns",
+        "it": "Capuns",
+        "en": "Capuns"
+      },
+      "fact": {
+        "fr": "Feuilles de blettes farcies d'une pâte à spätzli et de viande séchée, spécialité traditionnelle grisonne d'origine romanche.",
+        "de": "Mit Spätzliteig und Trockenfleisch gefüllte Mangoldblätter, eine traditionelle Bündner Spezialität rätoromanischen Ursprungs.",
+        "it": "Foglie di bietola farcite con pasta da spätzli e carne secca, specialità tradizionale grigionese di origine romancia.",
+        "en": "Chard leaves stuffed with spätzli dough and dried meat, a traditional Graubünden dish of Romansh origin."
+      }
+    },
+    {
+      "id": "zopf",
+      "canton": "BE",
+      "category": "pastry",
+      "coords": [46.9480, 7.4474],
+      "name": {
+        "fr": "Zopf",
+        "de": "Zopf",
+        "it": "Zopf",
+        "en": "Zopf (braided bread)"
+      },
+      "fact": {
+        "fr": "Pain tressé au beurre, traditionnellement mangé le dimanche matin en Suisse alémanique, associé à la région bernoise.",
+        "de": "Geflochtenes Butterbrot, traditionell am Sonntagmorgen in der Deutschschweiz gegessen, mit der Region Bern assoziiert.",
+        "it": "Pane intrecciato al burro, tradizionalmente consumato la domenica mattina nella Svizzera tedesca, associato alla regione bernese.",
+        "en": "Braided butter bread, traditionally eaten on Sunday mornings in German-speaking Switzerland, closely associated with the Bern region."
+      }
+    },
+    {
+      "id": "tete-de-moine",
+      "canton": "BE",
+      "category": "cheese",
+      "coords": [47.2333, 7.2167],
+      "name": {
+        "fr": "Tête de Moine",
+        "de": "Tête de Moine",
+        "it": "Tête de Moine",
+        "en": "Tête de Moine"
+      },
+      "fact": {
+        "fr": "Fromage AOP créé par les moines de l'abbaye de Bellelay dans le Jura bernois, raclé en fines rosettes avec une girolle.",
+        "de": "AOP-Käse, geschaffen von den Mönchen der Abtei Bellelay im Berner Jura, mit der Girolle zu feinen Röschen gehobelt.",
+        "it": "Formaggio DOP creato dai monaci dell'abbazia di Bellelay nel Giura bernese, raschiato in sottili rosette con la girolle.",
+        "en": "AOP cheese created by the monks of Bellelay Abbey in the Bernese Jura, shaved into thin rosettes with a girolle."
+      }
+    },
+    {
+      "id": "birchermuesli",
+      "canton": "ZH",
+      "category": "dish",
+      "coords": [47.3769, 8.5417],
+      "name": {
+        "fr": "Birchermüesli",
+        "de": "Birchermüesli",
+        "it": "Birchermüesli",
+        "en": "Birchermüesli"
+      },
+      "fact": {
+        "fr": "Créé vers 1900 par le médecin zurichois Maximilian Bircher-Benner pour ses patients, à base de flocons d'avoine, fruits et lait.",
+        "de": "Um 1900 vom Zürcher Arzt Maximilian Bircher-Benner für seine Patienten entwickelt, aus Haferflocken, Früchten und Milch.",
+        "it": "Creato attorno al 1900 dal medico zurighese Maximilian Bircher-Benner per i suoi pazienti, a base di fiocchi d'avena, frutta e latte.",
+        "en": "Created around 1900 by Zurich physician Maximilian Bircher-Benner for his patients, made from oats, fruit and milk."
+      }
+    },
+    {
+      "id": "zuri-gschnatzlets",
+      "canton": "ZH",
+      "category": "dish",
+      "coords": [47.3769, 8.5417],
+      "name": {
+        "fr": "Zürcher Geschnetzeltes",
+        "de": "Zürcher Geschnetzeltes",
+        "it": "Zürcher Geschnetzeltes",
+        "en": "Zürcher Geschnetzeltes"
+      },
+      "fact": {
+        "fr": "Émincé de veau à la crème et aux champignons, servi avec des rösti. Grand classique de la cuisine zurichoise.",
+        "de": "Kalbsgeschnetzeltes mit Rahm- und Pilzsauce, serviert mit Rösti. Ein grosser Klassiker der Zürcher Küche.",
+        "it": "Spezzatino di vitello alla panna e funghi, servito con rösti. Grande classico della cucina zurighese.",
+        "en": "Sliced veal in a creamy mushroom sauce, served with rösti. A classic dish of Zurich cuisine."
+      }
+    },
+    {
+      "id": "basler-leckerli",
+      "canton": "BS",
+      "category": "pastry",
+      "coords": [47.5596, 7.5886],
+      "name": {
+        "fr": "Basler Läckerli",
+        "de": "Basler Läckerli",
+        "it": "Basler Läckerli",
+        "en": "Basel Läckerli"
+      },
+      "fact": {
+        "fr": "Petit biscuit épicé au miel, amandes et écorces d'agrumes confites, spécialité historique de Bâle datant du XIVe siècle.",
+        "de": "Kleines Gewürzgebäck mit Honig, Mandeln und kandierten Zitrusschalen, historische Basler Spezialität aus dem 14. Jahrhundert.",
+        "it": "Piccolo biscotto speziato al miele, mandorle e scorze di agrumi canditi, specialità storica di Basilea risalente al XIV secolo.",
+        "en": "A small spiced biscuit with honey, almonds and candied citrus peel, a historic Basel specialty dating back to the 14th century."
+      }
+    },
+    {
+      "id": "st-galler-bratwurst",
+      "canton": "SG",
+      "category": "charcuterie",
+      "coords": [47.4245, 9.3767],
+      "name": {
+        "fr": "Saucisse de Saint-Gall",
+        "de": "St. Galler Bratwurst",
+        "it": "Salsiccia di San Gallo",
+        "en": "St. Gallen Bratwurst"
+      },
+      "fact": {
+        "fr": "Saucisse de veau blanche, traditionnellement dégustée sans moutarde et sans pain, souvent grillée sur les stands de rue.",
+        "de": "Weisse Kalbswurst, traditionell ohne Senf und ohne Brot gegessen, oft an Strassenständen gegrillt.",
+        "it": "Salsiccia di vitello bianca, tradizionalmente gustata senza senape e senza pane, spesso grigliata nei chioschi di strada.",
+        "en": "A white veal sausage, traditionally eaten without mustard or bread, often grilled at street stands."
+      }
+    },
+    {
+      "id": "polenta-ticinese",
+      "canton": "TI",
+      "category": "dish",
+      "coords": [46.1944, 9.0175],
+      "name": {
+        "fr": "Polenta tessinoise",
+        "de": "Tessiner Polenta",
+        "it": "Polenta ticinese",
+        "en": "Ticino polenta"
+      },
+      "fact": {
+        "fr": "Semoule de maïs mijotée, servie crémeuse ou grillée, accompagnée de fromages ou de viande. Pilier de la cuisine tessinoise.",
+        "de": "Geschmorter Maisgriess, cremig oder gegrillt serviert, begleitet von Käse oder Fleisch. Grundpfeiler der Tessiner Küche.",
+        "it": "Semola di mais cotta lentamente, servita cremosa o alla griglia, accompagnata da formaggi o carne. Pilastro della cucina ticinese.",
+        "en": "Slow-cooked cornmeal, served creamy or grilled, paired with cheese or meat. A cornerstone of Ticino cuisine."
+      }
+    },
+    {
+      "id": "luganighe",
+      "canton": "TI",
+      "category": "charcuterie",
+      "coords": [46.0037, 8.9511],
+      "name": {
+        "fr": "Luganighe",
+        "de": "Luganighe",
+        "it": "Luganighe",
+        "en": "Luganighe"
+      },
+      "fact": {
+        "fr": "Saucisse de porc fraîche typique du Tessin, souvent grillée et servie avec la polenta.",
+        "de": "Typische frische Schweinswurst aus dem Tessin, oft gegrillt und mit Polenta serviert.",
+        "it": "Salsiccia di maiale fresca tipica del Ticino, spesso grigliata e servita con la polenta.",
+        "en": "A fresh pork sausage typical of Ticino, often grilled and served with polenta."
+      }
+    },
+    {
+      "id": "poulet-neuchateloise",
+      "canton": "NE",
+      "category": "dish",
+      "coords": [46.9900, 6.9293],
+      "name": {
+        "fr": "Poulet à la neuchâteloise",
+        "de": "Neuenburger Poulet",
+        "it": "Pollo alla neocastellana",
+        "en": "Neuchâtel-style chicken"
+      },
+      "fact": {
+        "fr": "Poulet mijoté au vin blanc de Neuchâtel, à la crème et aux champignons, spécialité du canton de Neuchâtel.",
+        "de": "In Neuenburger Weisswein geschmortes Poulet mit Rahm und Pilzen, Spezialität des Kantons Neuenburg.",
+        "it": "Pollo cotto nel vino bianco di Neuchâtel, con panna e funghi, specialità del canton Neuchâtel.",
+        "en": "Chicken simmered in Neuchâtel white wine with cream and mushrooms, a specialty of canton Neuchâtel."
+      }
+    },
+    {
+      "id": "absinthe",
+      "canton": "NE",
+      "category": "drink",
+      "coords": [46.9167, 6.6167],
+      "name": {
+        "fr": "Absinthe du Val-de-Travers",
+        "de": "Absinth aus dem Val-de-Travers",
+        "it": "Assenzio del Val-de-Travers",
+        "en": "Val-de-Travers absinthe"
+      },
+      "fact": {
+        "fr": "Spiritueux aux plantes né dans le Val-de-Travers à la fin du XVIIIe siècle, protégé par une IGP depuis 2018.",
+        "de": "Kräuterspirituose, entstanden im Val-de-Travers Ende des 18. Jahrhunderts, seit 2018 mit geschützter geografischer Angabe (IGP).",
+        "it": "Distillato di erbe nato nel Val-de-Travers alla fine del XVIII secolo, protetto da un'IGP dal 2018.",
+        "en": "An herbal spirit born in the Val-de-Travers in the late 18th century, protected by a PGI designation since 2018."
+      }
+    },
+    {
+      "id": "longeole",
+      "canton": "GE",
+      "category": "charcuterie",
+      "coords": [46.2044, 6.1432],
+      "name": {
+        "fr": "Longeole",
+        "de": "Longeole",
+        "it": "Longeole",
+        "en": "Longeole"
+      },
+      "fact": {
+        "fr": "Saucisse genevoise aux graines de fenouil, protégée par une IGP, traditionnellement pochée puis servie avec des lentilles.",
+        "de": "Genfer Wurst mit Fenchelsamen, geschützt durch eine IGP, traditionell pochiert und mit Linsen serviert.",
+        "it": "Salsiccia ginevrina ai semi di finocchio, protetta da un'IGP, tradizionalmente pochata e servita con lenticchie.",
+        "en": "A Geneva sausage flavoured with fennel seeds, protected by a PGI, traditionally poached and served with lentils."
+      }
+    },
+    {
+      "id": "cervelas",
+      "canton": "CH",
+      "category": "charcuterie",
+      "coords": [46.9480, 7.4474],
+      "name": {
+        "fr": "Cervelas",
+        "de": "Cervelat",
+        "it": "Cervelat",
+        "en": "Cervelat"
+      },
+      "fact": {
+        "fr": "Surnommée « la saucisse nationale », consommée dans toute la Suisse, en particulier lors des fêtes populaires.",
+        "de": "Als «Nationalwurst» bekannt, in der ganzen Schweiz beliebt, besonders an Volksfesten.",
+        "it": "Soprannominata «la salsiccia nazionale», consumata in tutta la Svizzera, specialmente durante le feste popolari.",
+        "en": "Nicknamed \"the national sausage\", eaten all across Switzerland, especially at popular festivals."
+      }
+    },
+    {
+      "id": "meringue-gruyere",
+      "canton": "FR",
+      "category": "pastry",
+      "coords": [46.5810, 7.0820],
+      "name": {
+        "fr": "Meringue à la double crème",
+        "de": "Meringue mit Doppelrahm",
+        "it": "Meringa con doppia panna",
+        "en": "Meringue with double cream"
+      },
+      "fact": {
+        "fr": "Meringues croquantes servies avec la double crème de la Gruyère, association devenue emblématique de la région.",
+        "de": "Knusprige Meringues, serviert mit Greyerzer Doppelrahm, eine für die Region emblematisch gewordene Kombination.",
+        "it": "Meringhe croccanti servite con la doppia panna della Gruyère, un abbinamento diventato emblematico della regione.",
+        "en": "Crisp meringues served with double cream from the Gruyère region, a pairing that has become emblematic of the area."
+      }
+    }
+  ]
+}

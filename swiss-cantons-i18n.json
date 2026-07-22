@@ -1,0 +1,31 @@
+{
+  "cantons": {
+    "ZH": { "fr": "Zurich",        "de": "Zürich",         "it": "Zurigo",          "en": "Zurich" },
+    "BE": { "fr": "Berne",         "de": "Bern",           "it": "Berna",           "en": "Bern" },
+    "LU": { "fr": "Lucerne",       "de": "Luzern",         "it": "Lucerna",         "en": "Lucerne" },
+    "UR": { "fr": "Uri",           "de": "Uri",            "it": "Uri",             "en": "Uri" },
+    "SZ": { "fr": "Schwytz",       "de": "Schwyz",         "it": "Svitto",          "en": "Schwyz" },
+    "OW": { "fr": "Obwald",        "de": "Obwalden",       "it": "Obvaldo",         "en": "Obwalden" },
+    "NW": { "fr": "Nidwald",       "de": "Nidwalden",      "it": "Nidvaldo",        "en": "Nidwalden" },
+    "GL": { "fr": "Glaris",        "de": "Glarus",         "it": "Glarona",         "en": "Glarus" },
+    "ZG": { "fr": "Zoug",          "de": "Zug",            "it": "Zugo",            "en": "Zug" },
+    "FR": { "fr": "Fribourg",      "de": "Freiburg",       "it": "Friburgo",        "en": "Fribourg" },
+    "SO": { "fr": "Soleure",       "de": "Solothurn",      "it": "Soletta",         "en": "Solothurn" },
+    "BS": { "fr": "Bâle-Ville",    "de": "Basel-Stadt",    "it": "Basilea Città",   "en": "Basel-City" },
+    "BL": { "fr": "Bâle-Campagne", "de": "Basel-Landschaft","it": "Basilea Campagna","en": "Basel-Country" },
+    "SH": { "fr": "Schaffhouse",   "de": "Schaffhausen",   "it": "Sciaffusa",       "en": "Schaffhausen" },
+    "AR": { "fr": "Appenzell Rhodes-Extérieures", "de": "Appenzell Ausserrhoden", "it": "Appenzello Esterno", "en": "Appenzell Outer Rhodes" },
+    "AI": { "fr": "Appenzell Rhodes-Intérieures", "de": "Appenzell Innerrhoden",  "it": "Appenzello Interno", "en": "Appenzell Inner Rhodes" },
+    "SG": { "fr": "Saint-Gall",    "de": "St. Gallen",     "it": "San Gallo",       "en": "St. Gallen" },
+    "GR": { "fr": "Grisons",       "de": "Graubünden",     "it": "Grigioni",        "en": "Graubünden" },
+    "AG": { "fr": "Argovie",       "de": "Aargau",         "it": "Argovia",         "en": "Aargau" },
+    "TG": { "fr": "Thurgovie",     "de": "Thurgau",        "it": "Turgovia",        "en": "Thurgau" },
+    "TI": { "fr": "Tessin",        "de": "Tessin",         "it": "Ticino",          "en": "Ticino" },
+    "VD": { "fr": "Vaud",          "de": "Waadt",          "it": "Vaud",            "en": "Vaud" },
+    "VS": { "fr": "Valais",        "de": "Wallis",         "it": "Vallese",         "en": "Valais" },
+    "NE": { "fr": "Neuchâtel",     "de": "Neuenburg",      "it": "Neuchâtel",       "en": "Neuchâtel" },
+    "GE": { "fr": "Genève",        "de": "Genf",           "it": "Ginevra",         "en": "Geneva" },
+    "JU": { "fr": "Jura",          "de": "Jura",           "it": "Giura",           "en": "Jura" },
+    "CH": { "fr": "Suisse (national)", "de": "Schweiz (national)", "it": "Svizzera (nazionale)", "en": "Switzerland (national)" }
+  }
+}
